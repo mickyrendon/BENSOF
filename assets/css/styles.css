@@ -1,0 +1,35 @@
+.body{
+    font-family: var(--akshar);
+    font-size: 1rem;
+}
+header{
+    color: var(--main-white);
+}
+/* palette colors */
+.m-white{
+    background-color: var(--main-white);
+}
+.m-d-green{
+    background-color: var(--main-dark-green);
+}
+.d-green{
+    background-color: var(--dark-green);
+}
+.m-l-green{
+    background-color: var(--main-light-green);
+}
+.m-black{
+    background-color: var(--main-black);
+}
+.d-orange{
+    background-color: var(--dark-orange-1);
+}
+.t-red{
+    background-color: var(--third-red);
+}
+.gray{
+    background-color: var(--gray);
+}
+.l-green{
+    background-color: var(--lighter-green);
+}
