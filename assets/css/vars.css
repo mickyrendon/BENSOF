@@ -1,0 +1,22 @@
+/*akshar latin regular */
+@font-face {
+    font-display: swap; 
+    font-family: 'Akshar';
+    font-style: normal;
+    font-weight: 400;
+    src:url('../assets/fonts/akshar-v5-latin-regular.ttf') format('ttf')
+}
+
+/* variables */
+:root{
+    --main-white: #F7FFFC;
+    --main-dark-green: #3C5D50;
+    --dark-green-2: #5FA040;
+    --main-light-green: #98BDB5;
+    --main-black: #232921;
+    --dark-orange-1: #DE8637;
+    --third-red: #BC4B51;
+    --gray: #D9D9D9;
+    --lighter-green: #FBFFFA;
+    --akshar:'akshar', 'sans-serif';
+}
