@@ -2,7 +2,7 @@
     font-family: var(--akshar);
     font-size: 1rem;
 }
-header{
+header, footer{
     color: var(--main-white);
 }
 /* palette colors */
@@ -32,4 +32,30 @@ header{
 }
 .l-green{
     background-color: var(--lighter-green);
+}
+.fill-m-white{
+    fill: var(--dark-orange-1);
+}
+.color-m-l-green{
+    color: var(--main-dark-green);
+}
+.fill-m-d-green{
+    fill: var(--main-dark-green);
+}
+.fill-d-green-2{
+    fill: var(--dark-green-2);
+}
+.fill-d-orange{
+    fill: var(--dark-orange-1);
+}
+.background-img{
+    background-image: url(../moodboard/landing_page/background1.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+@media (min-width:720px) {
+    .fill-m-white:hover{
+        fill: var(--main-white);
+
+    }
 }
