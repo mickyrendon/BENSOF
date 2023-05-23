@@ -49,7 +49,7 @@ header, footer{
     fill: var(--dark-orange-1);
 }
 .background-img{
-    background-image: url(../moodboard/landing_page/background1.jpg);
+    background-image: url(../moodboard/landing_page/background.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
